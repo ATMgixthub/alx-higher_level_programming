@@ -7,7 +7,7 @@ Contains function that adds and saves to Python obj to JSON file; loads objects
 # cat add_item.json ; echo ""
 # expect output: []
 #
-# ./9-add_item.py some random args
+# ./7-add_item.py some random args
 # cat add_item.json ; echo ""
 # expect output: ["some", "random", "args"]
 """
